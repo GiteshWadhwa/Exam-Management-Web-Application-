@@ -11,6 +11,6 @@ you can modify it or default settings are:
 db name:  exam_system
 user:     Gitesh
 pass:     Gitesh
-
+#Note: you can create your password using MySql .
 insert your first user into the database and use the application.
 Thanks
